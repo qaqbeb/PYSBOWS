@@ -1,0 +1,7 @@
+说明：
+在浏览器上输入：
+https://api.weibo.com/oauth2/authorize?client_id=1314197144&redirect_uri=https://github.com/qaqbeb/PYSBOWS
+在地址栏中获取code信息，填到源代码目录下的code.txt文件中
+
+
+{"access_token":"2.00R7H7fGIiOw7Bfd2ef4a159raGZ2E","remind_in":"157679999","expires_in":157679999,"uid":"6108851833","isRealName":"true"}
